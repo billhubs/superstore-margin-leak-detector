@@ -10,7 +10,7 @@ from datetime import datetime, date, timedelta
 # 1. PAGE CONFIGURATION
 # ---------------------------------------------------------
 st.set_page_config(
-    page_title="Walmart Commercial & Supply Chain Operations Diagnostic",
+    page_title="Commercial & Supply Chain Operations Diagnostic",
     page_icon="🛒",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -21,7 +21,7 @@ st.set_page_config(
 # ---------------------------------------------------------
 COLOR_PALETTES = {
     "walmart_navy": {
-        "name": "Walmart Corporate Navy (Standard)",
+        "name": "Corporate Navy (Standard)",
         "primary": "#001E6C",
         "secondary": "#0071CE",
         "background": "#F4F6F9",
@@ -29,7 +29,7 @@ COLOR_PALETTES = {
         "chart_loss": "#D97706"
     },
     "mckinsey_executive": {
-        "name": "McKinsey Executive Slate",
+        "name": "Executive Slate",
         "primary": "#0A192F",
         "secondary": "#2563EB",
         "background": "#FAFAFA",
@@ -37,7 +37,7 @@ COLOR_PALETTES = {
         "chart_loss": "#DC2626"
     },
     "amazon_logistics": {
-        "name": "Amazon Supply Chain",
+        "name": "Supply Chain",
         "primary": "#131921",
         "secondary": "#FF9900",
         "background": "#F3F4F6",
