@@ -17,6 +17,14 @@ In fast-paced retail operations like Superstore, high gross revenue often masks 
 
 This dashboard provides executive and operational teams with an immediate **Loss Leakage Alert Engine** to protect net margins.
 
+## 🖥️ Dashboard Preview
+
+### 1. Executive KPI Cards & High-Level Health
+![Executive KPI Cards](assets/KPI.png)
+
+### 2. Leak Detector & Operational Audit
+![Leak Detector and Audit Table](assets/DETAIL.png)
+
 ---
 
 ## 🔄 System Architecture & Data Flow
